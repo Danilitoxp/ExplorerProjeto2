@@ -1,0 +1,64 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Doris', sans-serif;
+    font-weight: normal;
+    font-size: 32px;
+}
+
+body {
+    background: white;
+    text-align: center;
+}
+
+.heading img {
+    margin: 72px
+}
+
+a {
+    font-family: 'Open Sans', sans-serif;
+    color: #3F3D56;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0 10px 40px;
+}
+
+a:hover {
+    color: #EE24FF;
+}
+
+h1 span {
+    color: #EE24FF;
+}
+
+span, p {
+    color: #3F3D56;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    margin: 16px;
+    color: #828282;
+}
+
+.line {
+    width: 568px;
+    margin: 0 auto 20px;
+    border: 1px #ECEFF2 solid;
+}
+
+body #moldura{
+    position: fixed;
+    width: 1950px;
+    bottom: 0;
+    right: 0;
+}
+
+#footer {
+    margin-top: 64px;
+}
+
