@@ -1,4 +1,4 @@
-<h1 align="center">Desafio de Correção</h1>
+<h1 align="center">Treine me</h1>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
@@ -6,15 +6,15 @@
 
 
 <p align="center">
-  <img alt="" src="./images/preview.jpg" width="100%">
+  <img alt="projeto Treine me" src="./images/preview.jpg" width="100%">
 </p>
 
 
 ## 💻 Projeto
 
-Desafio de Correção de Layout da Rocktseat
+O Treine me é um projeto com objetivo de treinamento do Curso Rocketseat.
 
-- [Acesse o projeto]()
+- [Acesse o projeto](https://explorer2-one.vercel.app/)
 
 ## 🚀 Tecnologias
 
